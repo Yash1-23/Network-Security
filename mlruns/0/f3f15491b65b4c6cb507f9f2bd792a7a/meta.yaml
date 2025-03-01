@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Network%20Security/mlruns/0/f3f15491b65b4c6cb507f9f2bd792a7a/artifacts
+end_time: 1740821932063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3f15491b65b4c6cb507f9f2bd792a7a
+run_name: peaceful-goat-843
+run_uuid: f3f15491b65b4c6cb507f9f2bd792a7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740821926506
+status: 3
+tags: []
+user_id: yashw
